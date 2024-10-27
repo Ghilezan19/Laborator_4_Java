@@ -1,4 +1,7 @@
 package Pb1;
 
-public enum FormatCopiere {
+public enum FormatCopiere
+{
+
+    A4, A3
 }

@@ -1,4 +1,6 @@
 package Pb1;
 
-public enum Stare {
+public enum Stare
+{
+    achizitionat, expus, vandut
 }

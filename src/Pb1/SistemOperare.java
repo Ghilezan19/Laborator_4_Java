@@ -1,4 +1,7 @@
 package Pb1;
 
-public enum SistemOperare {
+public enum SistemOperare
+{
+
+    windows, linux
 }

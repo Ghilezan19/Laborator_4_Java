@@ -1,4 +1,7 @@
 package Pb1;
 
-public enum ModScriere {
+public enum ModScriere
+{
+
+    color, albnegru
 }
