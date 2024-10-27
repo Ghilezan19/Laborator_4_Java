@@ -1,29 +1,66 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="6d63f41e-42b9-4021-87f5-09f57ce29046" name="Changes" comment="" />
+    <list default="true" id="6d63f41e-42b9-4021-87f5-09f57ce29046" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Laborator 4.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Pb1/Copiatoare.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Pb1/Echipamente.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Pb1/FormatCopiere.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Pb1/Imprimante.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Pb1/MainApp.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Pb1/ModScriere.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Pb1/SistemOperare.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Pb1/SistemeCalcul.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Pb1/Stare.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Pb1/echipamente.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Pb1/echipamente_ser.txt" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Enum" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 5
-}]]></component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 5
+}</component>
   <component name="ProjectId" id="2nn9OCbE9VLn2MFzapYOIYkHhix" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "Application.MainApp.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "master",
     "kotlin-language-version-configured": "true",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
     "nodejs_package_manager_path": "npm",
     "onboarding.tips.debug.path": "C:/Users/ghile/IdeaProjects/Laborator 4/src/Main.java",
     "vue.rearranger.settings.migration": "true"
@@ -45,7 +82,17 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1729597940073</updated>
-      <workItem from="1729597941226" duration="10000" />
+      <workItem from="1729597941226" duration="27000" />
+      <workItem from="1729597977549" duration="185000" />
+      <workItem from="1729598172287" duration="28000" />
+      <workItem from="1729598207585" duration="51000" />
+      <workItem from="1729598266600" duration="21000" />
+      <workItem from="1729598301702" duration="24000" />
+      <workItem from="1729598333948" duration="22000" />
+      <workItem from="1729598364887" duration="18000" />
+      <workItem from="1729598394512" duration="249000" />
+      <workItem from="1729598660209" duration="33000" />
+      <workItem from="1729598700842" duration="1584000" />
     </task>
     <servers />
   </component>
